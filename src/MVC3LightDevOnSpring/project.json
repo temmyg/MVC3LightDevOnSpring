@@ -1,0 +1,24 @@
+﻿{
+  "dependencies": {
+    "Common.Logging": "3.4.1",
+    "EntityFramework": "4.1.10331.0",
+    "jQuery": "1.10.2",
+    "jQuery.UI.Combined": "1.10.3",
+    "jQuery.Validation": "1.11.1",
+    "jQuery.vsdoc": "1.6",
+    "Microsoft.AspNet.Razor": "1.0.20105.408",
+    "Microsoft.AspNet.WebPages": "1.0.20105.408",
+    "Microsoft.Web.Infrastructure": "1.0.0.0",
+    "Modernizr": "2.7.1",
+    "Spring.Core": "1.3.2",
+    "Spring.Web": "1.3.2",
+    "Spring.Web.Mvc3": "1.3.2"
+  },
+  "frameworks": {
+    "net4": {}
+  },
+  "runtimes": {
+    "win-anycpu": {},
+    "win": {}
+  }
+}
